@@ -11,7 +11,7 @@
 * CSS
 * JavaScript
 * Git
-5. 
+5. <br>
 ```java
 package academy.kovalevskyi.codingbootcamp.week1.day3;
 
